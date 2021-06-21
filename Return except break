@@ -1,0 +1,3 @@
+Nếu tìm index đầu tiên xong rồi out thì có hai cách :
+1. Cách nhà quê bạn hay dùng ( tìm rồi break )
+2. Trả về giá trị thì code đẹp hơn ( return )
